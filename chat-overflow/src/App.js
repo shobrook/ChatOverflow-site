@@ -18,9 +18,6 @@ export default class App extends Component {
             >
               GitHub
             </Button>
-            {/*<a className="link secondary" href="https://useadrenaline.com/">
-              Try Adrenaline
-            </a>*/}
           </div>
         </div>
         <div id="body">
