@@ -26,6 +26,7 @@ export default class App extends Component {
           <div id="buttons">
             <Button
               pathToIcon="./chrome.png"
+              href="https://chrome.google.com/webstore/detail/chatgpt-for-stackoverflow/apjhekoaogdimcgiihoncakocdddhmlk"
             >
               Add to Chrome
             </Button>
