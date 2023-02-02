@@ -1,0 +1,40 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: #D93CFF; */
+  border-radius: 9px;
+  cursor: pointer;
+  font-weight: 500;
+  /* height: 40px; */
+  height: 45px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-weight: 500;
+  font-size: 15px;
+  border: 1px solid #d5d5d5;
+  color: #2d2d2d;
+  text-decoration: none;
+}
+
+.button:hover img {
+  opacity: 0.75;
+}
+
+.button:hover span {
+  opacity: 0.75;
+}
+
+.secondary {
+  margin-left: 15px;
+}
+
+.link {
+  border: none;
+  height: auto;
+}
+
+.icon {
+  height: 20px;
+  padding-right: 10px;
+}
