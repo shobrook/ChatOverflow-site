@@ -33,6 +33,7 @@ export default class App extends Component {
             <Button
               isSecondary
               pathToIcon="./firefox.png"
+              href="https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-stackoverflow/"
             >
               Add to Firefox
             </Button>
